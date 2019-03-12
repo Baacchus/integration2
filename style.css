@@ -31,7 +31,7 @@ body {
     letter-spacing: 0.2px;
     font-family: partybusiness, serif;
     color: #505050;
-    font-size: 20px;
+    font-size: 16px;
 }
 
 .container-fluid {
@@ -166,7 +166,7 @@ h5 {
     padding-bottom: 65px;
 }
 
-.card-header{
+.card-header {
     background-color: #FF530D;
     font-size: 30px;
 }
